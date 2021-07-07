@@ -1,6 +1,6 @@
 # Ecorp
 
-![Image](logo-pj-Ransomeware.png =300x) 
+![Image](logo-pj-Ransomeware.png) 
 
 Ecorp est notre solution que nous vous proposons pour vous protéger contre les attaques de type ransomware. 
 (Promo 2023) Projet étudiant en équipe dans le cadre du MasterCamp 2021 à Efrei Paris dans le domaine de la Sécurité et du Réseau, réalisé par : 
