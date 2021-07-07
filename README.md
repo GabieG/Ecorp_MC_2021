@@ -1,6 +1,6 @@
 # Ecorp
 
-![Image](logo-pj-Ransomeware.png) 
+<img src="logo-pj-Ransomeware.png" width="290" height="270" />
 
 Ecorp est notre solution que nous vous proposons pour vous protéger contre les attaques de type ransomware. 
 (Promo 2023) Projet étudiant en équipe dans le cadre du MasterCamp 2021 à Efrei Paris dans le domaine de la Sécurité et du Réseau, réalisé par : 
@@ -19,7 +19,7 @@ Afin de réaliser ce projet, nous avons joué le rôle d’une équipe travailla
 => consiste tout simplement à sauvegarder les données des employés, notamment leur travail de la journée, qui pourront seulement être récupérées par le service sécurité de l’entreprise. 
 Voici un schéma représentant la topologie de notre réseau :
 
-![Image](reseau_projet_mc.png) 
+<img src="reseau_projet_mc.png" width="300" height="237" />
 
 ## Technologie utilisée
 ---
