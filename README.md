@@ -1,5 +1,4 @@
 # Ecorp
-## _La sécurité notre priorité_
 
 ![Image](logo-pj-Ransomeware.png) 
 
