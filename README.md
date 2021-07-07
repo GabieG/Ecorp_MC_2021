@@ -19,7 +19,7 @@ Afin de réaliser ce projet, nous avons joué le rôle d’une équipe travailla
 => consiste tout simplement à sauvegarder les données des employés, notamment leur travail de la journée, qui pourront seulement être récupérées par le service sécurité de l’entreprise. 
 Voici un schéma représentant la topologie de notre réseau :
 
-<img src="reseau_projet_mc.png" width="300" height="237" />
+<img src="reseau_projet_mc.png" width="350" height="276" />
 
 ## Technologie utilisée
 ---
