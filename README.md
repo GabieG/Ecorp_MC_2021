@@ -1,7 +1,7 @@
 # Ecorp
 ## _La sécurité notre priorité_
 
-![Image](master/logo-pj-Ransomeware.png) 
+![Image](logo-pj-Ransomeware.png) 
 
 Ecorp est notre solution que nous vous proposons pour vous protéger contre les attaques de type ransomware. 
 (Promo 2023) Projet étudiant en équipe dans le cadre du MasterCamp 2021 à Efrei Paris dans le domaine de la Sécurité et du Réseau, réalisé par : 
@@ -19,7 +19,8 @@ Afin de réaliser ce projet, nous avons joué le rôle d’une équipe travailla
 -	La seconde : créer un serveur backup permettant de sauvegarder les données d’une entreprise de manière sécurisé :
 => consiste tout simplement à sauvegarder les données des employés, notamment leur travail de la journée, qui pourront seulement être récupérées par le service sécurité de l’entreprise. 
 Voici un schéma représentant la topologie de notre réseau :
-![Image](master/reseau_projet_mc.png) 
+
+![Image](reseau_projet_mc.png) 
 
 ## Technologie utilisée
 ---
